@@ -1,0 +1,9 @@
+{
+  "name": "gemini-secure-proxy",
+  "version": "1.0.0",
+  "description": "Secure Vercel proxy for Gemini API with Firebase Auth token verification.",
+  "main": "api/generate.js",
+  "dependencies": {
+    "firebase-admin": "^12.3.0"
+  }
+}
